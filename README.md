@@ -3,8 +3,8 @@
 Bagian ini berfungsi untuk menjelaskan part dari jobsheets Algoritma Pemograman yang telah diberikan oleh dosen pengampu. Penjelasan terdapat pada link tertera dibawah.
 
 Dosen : Randi Proska Sandra, M.Sc<br>
-Seksi : 202313430012
-Mahasiswa : Radhia Aulia Nisa (23343069)
+Seksi : 202313430012<br>
+Mahasiswa : Radhia Aulia Nisa (23343069)<br>
 
 # Jobsheets #
 [Jobsheet 1 - Pengantar Algoritma dan Pemrograman](https://github.com/radhiaaulia16/Pratikum-Algoritma-Pemograman/tree/main/Jobsheet%201-%20Algoritma%2C%20Pemograman%20IDE)<br>
