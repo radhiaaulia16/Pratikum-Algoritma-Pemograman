@@ -4,9 +4,11 @@ Repositori ini berisi penjelasan mengenai materi yang ada di dalam jobsheet bese
 
 Dosen : Randi Proska Sandra, M.Sc<br>
 Seksi : 202313430012<br>
-Mahasiswa : Radhia Aulia Nisa (23343049)<br>
+Mahasiswa : Radhia Aulia Nisa (23343049)<br><br>
+
 
 # Jobsheets #
+***
 [Jobsheet 1 - Pengantar Algoritma dan Pemrograman](https://github.com/radhiaaulia16/Pratikum-Algoritma-Pemograman/tree/main/Jobsheet%201-%20Algoritma%2C%20Pemograman%20IDE)<br>
 
 **Algoritma** <br>
@@ -20,6 +22,7 @@ Pemrograman melibatkan algoritma dan bahasa pemrograman. Pemrograman adalah seni
 **IDE**<br>
 IDE dalah software atau perangkat lunak yang digunakan oleh programmer untuk membuat sebuah program komputer atau sebagai tempat pengembangan aplikasi. IDE memiliki banyak fitur yang mendukung proses pemrograman. Contohnya adalah DevC++, Microsoft Visual Studio, CodeBlocks, NetBeans, Eclips, dll.<br><br>
 
+***
 
 [Jobsheet 2 - Pemrograman Dasar C](https://github.com/radhiaaulia16/Pratikum-Algoritma-Pemograman/tree/main/Jobsheet%202-%20Pemograman%20Dasar%20C)<br>
 
@@ -49,6 +52,7 @@ Blank, tab, spasi, atau baris baru digunakan untuk memisahkan bagian dalam sebua
 - Input adalah sesuatu data yang kita masukan ke dalam program. Fungsi dasar untuk mengambil input : scanf(), gets(), dan fgets().
 - Output adalah informasi yang dihasilkan setelah dilakukan proses. Output biasanya ditampilkan ke layar komputer. Fungsi dasar untuk menampilkan output : printf() dan puts().<br><br>
 
+***
 
 [Jobsheet 3 - Variabel, Konstanta dan Tipe Data](https://github.com/radhiaaulia16/Pratikum-Algoritma-Pemograman/tree/main/Jobsheet%203-%20Variabel%2C%20Konstanta%2C%20Tipe%20Data)<br>
 
@@ -75,6 +79,7 @@ Terdapat 8 jenis tipe data :
 **Konstanta**<br>
 Konstanta merupakan sebuah nilai tetapan atau variabel yang tidak dapat diubah nilainya. Terdapat dua cara pembuatan konstanta, yaitu : menggunakan #define, atau menggunakan const. Perbedaan pembuatan konstanta yang menggunakan #define dan const terletak pada format penulisannya. Pada #define kita tidak perlu menuliskan tipe data, sedangkan const harus. Pada #define kita tidak membutuhkan titik koma di akhir, sedangkan pada const kita harus menuliskan titik koma. Posisi penulisan untuk #define dan const bisa ditulis di dalam main() maupun di luar.<br><br>
 
+***
 
 [Jobsheet 4 - Operator](https://github.com/radhiaaulia16/Pratikum-Algoritma-Pemograman/tree/main/Jobsheet%204-%20Operator)<br>
 
@@ -130,6 +135,8 @@ Operator bitwise melakukan operasi berdasarkan bit (biner) dari nilai.
 - Increment (++)
 - Decrement (--)<br><br>
 
+***
+
 [Jobsheet 5 - Flow Control (Decision Making)](https://github.com/radhiaaulia16/Pratikum-Algoritma-Pemograman/tree/main/Jobsheet%205-%20Flow%20Control%20(Decision%20Making))<br>
 
 Bahasa C menyediakan sejumlah pernyataan aliran kontrol (juga disebut pernyataan Flow Control), yang merupakan pernyataan yang memungkinkan pemrogram untuk mengubah jalur eksekusi normal melalui program.
@@ -152,6 +159,7 @@ Pernyataan menggunakan opreator ternary merupakan bentuk lain dari percabangan i
 **6. Percabangan bersarang**<br>
 Semua bentuk blok percabangan di atas dapat kita buat di dalam percabangan yang lainnya. Ini disebut dengan percabangan bersarang atau nested if.<br><br>
 
+***
 
 [Jobsheet 6 - Flow Control (Looping)](https://github.com/radhiaaulia16/Pratikum-Algoritma-Pemograman/tree/main/Jobsheet%206-%20Flow%20Control%20(Loop))<br>
 
@@ -163,6 +171,7 @@ Pengulangan For adalah counted loop. For dihitung mulai dari 0 hingga 10 dan set
 
 Uncounted loop pada C adalah while dan do while. While merupakan perulangan yang memberikan counter selama variabel ulang bernilai y. Sementara do while akan melakukan 1 kali perulangan terlebih dahulu lalu menuju perulangan pada while, berbeda pada program yang hanya memiliki while saja. Nested loop adalah perulangan dalam perulangan yang menggunakan variabel i sebagai counter dann j sebagai counter secara berurutan.<br><br>
 
+***
 
 [Jobsheet 7 - Array](https://github.com/radhiaaulia16/Pratikum-Algoritma-Pemograman/tree/main/Jobsheet%207-%20Array)<br>
 
@@ -172,6 +181,7 @@ Pengguna dapat melakukan perulangan elemen-elemen dalam sebuah array dengan meng
 
 Pengambilan nilai array dapat menggunakan string berformat seperti strcpy() yang berfungsi untuk mengcopy string, strcat() yang digunakan untuk menambahkan string dari belakang, strlen() yang berfungsi menghitung panjang string, dan strcmp() yang membandingkan dua string.<br><br>
 
+***
 
 [Jobsheet 8 - Fungsi dan Prosedur](https://github.com/radhiaaulia16/Pratikum-Algoritma-Pemograman/tree/main/Jobsheet%208-%20Fungsi%20dan%20Prosedur)<br>
 
@@ -201,6 +211,7 @@ Variabel lokal hanya dapat diakses di dalam fungsi, sedangkan variabel global da
 Pass by value adalah cara memberikan nilai pada parameter dengan langsung memberikan nilainya.
 Pass by reference adalah memberikan alamat memori sebagai nilai parameter menggunakan pointer.<br><br>
 
+***
 
 [Jobsheet 9 - Pointer](https://github.com/radhiaaulia16/Pratikum-Algoritma-Pemograman/tree/main/Jobsheet%209-%20Pointer)<br>
 
@@ -208,6 +219,7 @@ Pass by reference adalah memberikan alamat memori sebagai nilai parameter menggu
   - Pointer adalah variabel yang menunjuk/berisi alamat memori dari variabel lain sehingga variabel pointer yang kita buat bisa mengakses nilai/data yang ada pada variabel yang alamat memorinya ditunjuk tersebut
   - alamat memori berfungsi untuk menentukan lokasi penyimpanan data pada penyimpanan (RAM), alamat memori juga disebut reference atau referensi.<br><br>
 
+***
 
 [Jobsheet 10 - Enumerasi dan Structure](https://github.com/radhiaaulia16/Pratikum-Algoritma-Pemograman/tree/main/Jobsheet%2010-%20Enumerasi%20Structure)<br>
 - **Enumerasi**:
@@ -217,6 +229,7 @@ Pass by reference adalah memberikan alamat memori sebagai nilai parameter menggu
   - Struct adalah tipe data bentukan sama halnya dengan enumerasi/enum, namun struct berisi sekumpulan variabel dengan tipe data yang berbeda beda.
   - struct juga memiliki kata kunci typedef yang digunakan untuk mendefinisikan tipe data baru, typedef terletak di depan struct ketika dideklarasikan.<br><br>
 
+***
 
 [Jobsheet 11 - File Handling in C](https://github.com/radhiaaulia16/Pratikum-Algoritma-Pemograman/tree/main/Jobsheet%2011-%20File%20Handing%20in%20C)<br>
 
