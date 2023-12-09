@@ -3,6 +3,7 @@
 Repositori ini berisi penjelasan mengenai materi yang ada di dalam jobsheet beserta tugas dan latihan yang dikerjakan oleh mahasiswa. Penjelasan beserta link jobsheet telah tertera di bawah.
 
 Dosen : Randi Proska Sandra, M.Sc<br>
+Kode Kelas : INF1.62.1008<br>
 Seksi : 202313430012<br>
 Mahasiswa : Radhia Aulia Nisa (23343049)<br><br>
 
